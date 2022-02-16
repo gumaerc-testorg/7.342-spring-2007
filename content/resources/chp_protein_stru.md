@@ -9,12 +9,14 @@ description: 'Crystal structure of rhodopsin. Rhodopsin, a dim-light photorecept
   Berman, H. M., J. Westbrook, Z. Feng, G. Gilliland, T. N. Bhat, H. Weissig, I. N.
   Shindyalov, and P. E. Bourne. "The Protein Data Bank." Nucleic Acids Research 28
   (2000): 235-242.)'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-342-g-protein-coupled-receptors-vision-and-disease-spring-2007/18b9734ebbc41342fc6d7948c3f42917_chp_protein_stru.jpg
+file: /media/courses/7-342-g-protein-coupled-receptors-vision-and-disease-spring-2007/18b9734ebbc41342fc6d7948c3f42917_chp_protein_stru.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Crystal Structure of Rhodopsin
 uid: 18b9734e-bbc4-1342-fc6d-7948c3f42917
