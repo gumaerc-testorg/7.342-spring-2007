@@ -17,6 +17,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 125f8e4c-f972-06ae-4030-98953f148808
 resourcetype: Document
 title: 'G-Protein Coupled Receptors: Vision and Disease Lecture Summaries'
 uid: 4ccb4c9e-bfe1-3740-020c-7405aa98feea

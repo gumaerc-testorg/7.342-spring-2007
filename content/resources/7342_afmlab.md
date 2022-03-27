@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4b9d2d05-af82-58da-3ebe-0ebc4f2fa7ae
 resourcetype: Document
 title: Undergraduate Instructional AFM Laboratory
 uid: 09e93191-23b4-e063-1c4a-f67479a85d33

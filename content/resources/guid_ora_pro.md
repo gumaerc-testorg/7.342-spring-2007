@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 10febff0-d8a9-15d3-978f-ee34aeb0f140
 resourcetype: Document
 title: Guidelines for Oral Presentation of Research Proposal
 uid: 0ee6853b-b647-1dcc-28cf-c5e7359f1f4a
