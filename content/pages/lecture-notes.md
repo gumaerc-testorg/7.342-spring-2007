@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides lecture summaries for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Lecture Notes
 uid: 125f8e4c-f972-06ae-4030-98953f148808
 ---
 
-All lecture summaries ([PDF]({{< baseurl >}}/resources/7342_lec_sum))
+All lecture summaries ({{% resource_link 4ccb4c9e-bfe1-3740-020c-7405aa98feea "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}

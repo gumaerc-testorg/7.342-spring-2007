@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -26,4 +27,4 @@ You will write a four-page research proposal (font 12, double-spaced) about one 
 
 Describe the experimental setup with proper controls, and discuss the possible outcomes and implications of your results.
 
-Your written proposal should be submitted in Ses #13, and your oral presentation will be on the day of our last class. Guidelines for Oral Presentation. ([PDF]({{< baseurl >}}/resources/guid_ora_pro))
+Your written proposal should be submitted in Ses #13, and your oral presentation will be on the day of our last class. Guidelines for Oral Presentation. ({{% resource_link 0ee6853b-b647-1dcc-28cf-c5e7359f1f4a "PDF" %}})
