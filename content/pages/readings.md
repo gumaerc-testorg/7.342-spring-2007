@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information about readings for the lecture sessions.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 4b9d2d05-af82-58da-3ebe-0ebc4f2fa7ae
 ---
@@ -98,7 +102,7 @@ Visit to an Atomic Force Microscopy Facility
 
 Fotiadis, D., S. Scheuring, S. A. Müller, A. Engel, and D. J. Müller. "Imaging and Manipulation of Biological Structures with the AFM." _Micron_ 33 (2002): 385-397.
 
-Field trip schedule ([PDF]({{< baseurl >}}/resources/7342_afmlab))
+Field trip schedule ({{% resource_link 09e93191-23b4-e063-1c4a-f67479a85d33 "PDF" %}})
 
 
 {{< tdclose >}}
