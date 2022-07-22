@@ -7,6 +7,7 @@ file: /courses/7-342-g-protein-coupled-receptors-vision-and-disease-spring-2007/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Guidelines for Oral Presentation of Research Proposal
 uid: 0ee6853b-b647-1dcc-28cf-c5e7359f1f4a
 ---
 Guidelines for the oral presentation of a research proposal, including time, introduction, specific aims, experimental design, possible outcomes, and conclusions and discussion.
-

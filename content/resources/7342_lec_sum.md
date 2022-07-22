@@ -14,6 +14,7 @@ file: /courses/7-342-g-protein-coupled-receptors-vision-and-disease-spring-2007/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -23,4 +24,3 @@ title: 'G-Protein Coupled Receptors: Vision and Disease Lecture Summaries'
 uid: 4ccb4c9e-bfe1-3740-020c-7405aa98feea
 ---
 Lecture summaries for the course in one file. Lecture topics include an introduction, G-Protein coupled receptors and rhodopsin, Visual cascade part I - Activation of rhodopsin by light, Visual cascade part II - Rhodopsin and G protein (transducin) interaction, Visit to an Atomic Force Microscopy Facility, Rhodopsin dimerization, Rhodopsin mutations, retinal degeneration and night blindness, Field trip to the Novartis Institutes for BioMedical Research, Drug addiction - Dopamine receptors and activation mechanism, Allergies - Histamine receptors, How mutations in chemokine receptors inhibit CCR5-mediated HIV infection, Sense of smell: Olfactory receptors, Sense of taste: Taste receptors, and Oral presentations: General discussion and future perspectives.
-

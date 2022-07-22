@@ -5,6 +5,7 @@ file: /courses/7-342-g-protein-coupled-receptors-vision-and-disease-spring-2007/
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Undergraduate Instructional AFM Laboratory
 uid: 09e93191-23b4-e063-1c4a-f67479a85d33
 ---
 Schedule for a field trip to the Undergraduate Instructional AFM Laboratory.
-
