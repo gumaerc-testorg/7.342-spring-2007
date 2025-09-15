@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Schedule for a field trip to the Undergraduate Instructional AFM Laboratory.
-file: /courses/7-342-g-protein-coupled-receptors-vision-and-disease-spring-2007/09e9319123b4e0631c4af67479a85d33_7342_afmlab.pdf
+file: /ol-ocw-studio-app/courses/7-342-g-protein-coupled-receptors-vision-and-disease-spring-2007/09e9319123b4e0631c4af67479a85d33_7342_afmlab.pdf
+file_size: 11980
 file_type: application/pdf
 learning_resource_types:
 - Readings

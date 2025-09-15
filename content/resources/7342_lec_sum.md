@@ -10,7 +10,8 @@ description: 'Lecture summaries for the course in one file. Lecture topics inclu
   in chemokine receptors inhibit CCR5-mediated HIV infection, Sense of smell: Olfactory
   receptors, Sense of taste: Taste receptors, and Oral presentations: General discussion
   and future perspectives.'
-file: /courses/7-342-g-protein-coupled-receptors-vision-and-disease-spring-2007/4ccb4c9ebfe13740020c7405aa98feea_7342_lec_sum.pdf
+file: /ol-ocw-studio-app/courses/7-342-g-protein-coupled-receptors-vision-and-disease-spring-2007/4ccb4c9ebfe13740020c7405aa98feea_7342_lec_sum.pdf
+file_size: 39664
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
