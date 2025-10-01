@@ -154,7 +154,7 @@ Mutations in rhodopsin lead to Retinitis Pigmentosa (RP) and congenital night bl
 Field trip to the Novartis Institutes for BioMedical Research
 {{< tdclose >}}
 {{< tdopen >}}
-[The Novartis Institutes for BioMedical Research](http://www.novartis.com/careers/careers-research-development/novartis-institutes-biomedical-research.shtml)
+{{% resource_link "2cb0844a-3891-4fb5-8998-be2e0de7a93f" "The Novartis Institutes for BioMedical Research" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

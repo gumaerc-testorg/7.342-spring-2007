@@ -140,7 +140,7 @@ Sung, C. H., B. G. Schneider, N. Agarwal, D. S. Papermaster, and J. Nathans. "Fu
 
 Jin, S., M. C. Cornwall, and D. D. Oprian. "Opsin Activation as a Cause of Congenital Night Blindness." _Nature Neuroscience_ 6 (2003): 731-735.
 
-[Pulse-Chase experiment](http://www.sumanasinc.com/webcontent/animations/content/pulsechase/pulsechase.html)
+{{% resource_link "3b3499cf-8f71-499a-86ea-c1250727a0be" "Pulse-Chase experiment" %}}
 
 
 {{< tdclose >}}
@@ -172,11 +172,11 @@ Lee, S. P., C. H. So, A. J. Rashid, G. Varghese, R. Cheng, A. J. Lanca, B. F. O'
 
 Guo, W., L. Shi, M. Filizola, H. Weinstein, and J. A. Javitch. "Crosstalk in G Protein-coupled Receptors: Changes at the Transmembrane Homodimer Interface Determine Activation." _Proc Natl Acad Sci_ 102 (2005): 17495-17500.
 
-[Dopamine receptors](http://www.williams.edu/imput/synapse/pages/III.html)
+{{% resource_link "82b8043a-dbe7-4288-a094-6b201a03c512" "Dopamine receptors" %}}
 
-[Molecular mechanism of drug addiction](http://www.jneurosci.org/content/12/7/2439.full.pdf)
+{{% resource_link "ada7da28-ccc0-4883-8b4b-95d499c1bdbc" "Molecular mechanism of drug addiction" %}}
 
-[D1/D2 synergism](http://stke.sciencemag.org/cgi/content/full/sigtrans;2004/255/pe50)
+{{% resource_link "cbe37e24-60b9-4bcd-a79e-80ba71ad0236" "D1/D2 synergism" %}}
 
 
 {{< tdclose >}}
@@ -216,11 +216,11 @@ Benkirane, M., D-Y Jin, R. F. Chun, R. A. Koup, and K-T Jeang. "Mechanism of Tra
 
 Hernanz-Falcon, P., J. M. Rodriguez-Frade, A. Serrano, D. Juan, A. D. Sol, S. F. Soriano, F. Roncal, L. Gomez, A. Valencia, C. Martinez-A, and M. Mellado. "Identification of Amino Acid Residues Crucial for Chemokine Receptor Dimerization." _Nature Immunology_ 5 (2004): 216-223.
 
-[Supplementary material for Hernanz-Falcon, et al](http://www.nature.com/ni/journal/v5/n2/suppinfo/ni1027_S1.html)
+{{% resource_link "5a7208c5-179f-40f3-a9bc-ec5a62029738" "Supplementary material for Hernanz-Falcon, et al" %}}
 
-[Flow cytometry](http://unsolvedmysteries.oregonstate.edu/flow_06)
+{{% resource_link "cf7f9dea-dfa3-4126-aabd-8867f72434fb" "Flow cytometry" %}}
 
-[Yeast two hyrbid system](http://www.sumanasinc.com/webcontent/anisamples/molecularbiology/yeasttwohybrid.html)
+{{% resource_link "0a951498-eaf7-41d4-9efa-e465e9c603cd" "Yeast two hyrbid system" %}}
 
 
 {{< tdclose >}}
@@ -242,9 +242,9 @@ Oka, Y., M. Omura, H. Kataoka, and K. Touhara. "Olfactory Receptor Antagonism be
 
 Techniques used in the papers:
 
-*   [Southern blot](http://www.bio.davidson.edu/genomics/method/Southernblot.html)
-*   [Northern blot](http://www.escience.ws/b572/L13/north.html)
-*   [DNA hybridization](http://www.cliffsnotes.com/sciences/biology/biochemistry-ii/molecular-cloning-of-dna/dna-hybridization)
+*   {{% resource_link "8b35e621-efcc-4d29-9471-44ea965db008" "Southern blot" %}}
+*   {{% resource_link "454d9b46-d5bf-4cb0-b93a-0b396b967d30" "Northern blot" %}}
+*   {{% resource_link "15e06652-20e5-4824-934b-3a7ad9c81319" "DNA hybridization" %}}
 
 
 {{< tdclose >}}
